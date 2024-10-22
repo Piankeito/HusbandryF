@@ -1,0 +1,164 @@
+body
+{
+    margin:0;
+    padding:0;
+}
+.bod
+{
+    background-color: rgb(164, 130, 84);
+
+}
+.container-fluid
+{
+    background-color:rgb(110, 76, 31);
+}
+.navbar
+{
+    margin: 0%;
+    padding:0% ;
+}
+.navbar img
+{
+    width: 21%;
+    height: 21%;
+    background-color:wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.navbar-toggler 
+{
+    background-color: aliceblue;
+    text-align: right;
+}
+
+.navbar-brand
+{
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 250%;
+    margin-top: 50%;
+    padding-top:20px ;
+
+}
+/*navbar end  */
+
+.container-fluid1
+{
+    background-color: rgb(206, 169, 120);
+}
+.mission
+{
+    color: azure;
+    text-align: center;
+    font-family:serif;
+    font-size: 200%;
+}
+.we
+{
+    color: azure;
+    text-align: center;
+    font-family: serif;
+    font-size: 125%;
+    font-style: oblique;
+}
+.vision
+{
+    color: azure;
+    text-align: center;
+    font-family:serif;
+    font-size: 200%;
+}
+/*-------------*/
+.pian
+{
+    text-align: center;
+    color: azure;
+    font-family: serif;
+    font-size: 100%;
+}
+.pian img
+{
+    width: 7%;
+    height: 7%;
+    background-color: wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.adopt
+{
+    text-align: center;
+    color: azure;
+    font-family:serif;
+    font-size: 100%;
+}
+.adopt img
+{
+    width: 30%;
+    height: 30%;
+    background-color: wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.foster
+{
+    text-align: center;
+    color: azure;
+    font-family:serif;
+    font-size: 100%;
+}
+.foster img
+{
+    width: 30%;
+    height: 30%;
+    background-color: wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.donate
+{
+    text-align: center;
+    color: azure;
+    font-family:serif;
+    font-size: 100%;
+}
+.donate img
+{
+    width: 30%;
+    height: 30%;
+    background-color: wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.volunteer
+{
+    text-align: center;
+    color: azure;
+    font-family:serif;
+    font-size: 100%;
+}
+.volunteer img
+{
+    width: 30%;
+    height: 30%;
+    background-color: wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+/*-------------*/
+
+.footer
+{
+    background-color:rgb(110, 76, 31);
+}

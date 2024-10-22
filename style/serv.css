@@ -1,0 +1,153 @@
+body
+{
+    margin:0;
+    padding:0;
+}
+.bod
+{
+    background-color: rgb(164, 130, 84);
+
+}
+.container-fluid
+{
+    background-color:rgb(110, 76, 31);
+}
+.navbar
+{
+    margin: 0%;
+    padding:0% ;
+}
+.navbar img
+{
+    width: 21%;
+    height: 21%;
+    background-color:wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.navbar-toggler 
+{
+    background-color: aliceblue;
+    text-align: right;
+}
+
+.navbar-brand
+{
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 250%;
+    margin-top: 50%;
+    padding-top:20px ;
+
+}
+.a :hover
+{
+    color: black;
+}
+/*navbar end  */
+
+.btn
+{
+    background-color:rgb(110, 76, 31);
+    border-color:rgb(110, 76, 31);
+    color: aliceblue;
+    text-align: center;
+    width:55% ;
+    height: 55%;
+    font-size: 100%;
+}
+
+.btn :hover
+{
+    color: rgb(188, 147, 85);
+}
+
+
+/*-------------*/
+
+.adopt
+{
+    text-align: center;
+    color: azure;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 130%;
+}
+.adopt img
+{
+    width: 50%;
+    height: 50%;
+    background-color: wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.foster
+{
+    text-align: center;
+    color: azure;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 130%;
+}
+.foster img
+{
+    width: 50%;
+    height: 50%;
+    background-color: wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.donate
+{
+    text-align: center;
+    color: azure;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 130%;
+}
+.donate img
+{
+    width: 50%;
+    height: 50%;
+    background-color: wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.volunteer
+{
+    text-align: center;
+    color: azure;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 130%;
+
+}
+.volunteer img
+{
+    width: 55%;
+    height: 55%;
+    background-color: wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.row
+{
+    margin-top:7%;
+}
+.col
+{
+    margin-bottom: 3%;
+}
+
+/*-------------*/
+
+.footer
+{
+    background-color:rgb(110, 76, 31);
+}

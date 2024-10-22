@@ -1,0 +1,211 @@
+body
+{
+    margin:0;
+    padding:0;
+}
+.bod
+{
+    background-color: rgb(164, 130, 84);
+
+}
+.container-fluid
+{
+    background-color:rgb(110, 76, 31);
+}
+.navbar
+{
+    margin: 0%;
+    padding:0% ;
+}
+.navbar img
+{
+    width: 21%;
+    height: 21%;
+    background-color:wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.navbar-toggler 
+{
+    background-color: aliceblue;
+    text-align: right;
+}
+
+.navbar-brand
+{
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 250%;
+    margin-top: 50%;
+    padding-top:20px ;
+
+}
+/*navbar end  */
+.btn
+{
+    background-color: rgb(186, 150, 107);
+    border-color:  rgb(186, 150, 107);
+    color: aliceblue;
+}
+.btn :hover
+{
+    background-color: black;
+}
+/*-------------*/
+
+.adopt
+{
+    text-align: center;
+    color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 120%;
+}
+.adopt img
+{
+    width: 50%;
+    height: 50%;
+    background-color: wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.foster
+{
+    text-align: center;
+    color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 120%;
+}
+.foster img
+{
+    width: 50%;
+    height: 50%;
+    background-color: wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.donate
+{
+    text-align: center;
+    color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 120%;
+}
+.donate img
+{
+    width: 50%;
+    height: 50%;
+    background-color: wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.volunteer
+{
+    text-align: center;
+    color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 120%;
+}
+.volunteer img
+{
+    width: 50%;
+    height: 50%;
+    background-color: wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.gold
+{
+    text-align: center;
+    color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 120%;
+}
+.gold img
+{
+    width: 45%;
+    height: 45%;
+    background-color: wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.cav
+{
+    text-align: center;
+    color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 120%;
+    margin-bottom: 5%;
+}
+.cav img
+{
+    width: 55%;
+    height: 60%;
+    background-color: wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.vol
+{
+    text-align: center;
+    color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 120%;
+    margin-bottom: 18%;
+}
+.vol img
+{
+    width: 50%;
+    height: 50%;
+    background-color: wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.vl
+{
+    text-align: center;
+    color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 120%;
+    margin-bottom: 25%;
+}
+.vl img
+{
+    width: 50%;
+    height: 50%;
+    background-color: wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.row
+{
+    margin-top:3%;
+}
+.row1
+{
+    margin-bottom: 3%;
+}
+
+/*-------------*/
+
+.footer
+{
+    background-color:rgb(110, 76, 31);
+}

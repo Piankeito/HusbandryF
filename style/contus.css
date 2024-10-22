@@ -1,0 +1,142 @@
+body
+{
+    margin:0;
+    padding:0;
+}
+.bod
+{
+    background-color: rgb(206, 169, 120);
+    margin: 0%;
+    padding: 0%;
+
+}
+.container-fluid
+{
+    background-color:rgb(110, 76, 31);
+}
+.navbar
+{
+    margin: 0%;
+    padding:0% ;
+}
+.navbar img
+{
+    width: 21%;
+    height: 21%;
+    background-color:wheat;
+    border-radius:50%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.navbar-toggler 
+{
+    background-color: aliceblue;
+    text-align: right;
+}
+
+.navbar-brand
+{
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 250%;
+    margin-top: 50%;
+    padding-top:20px ;
+
+}
+/*navbar end  */
+.container-fluid
+{
+    margin: 0%;
+    padding: 0%;
+}
+.container-fluid1
+{
+    background-color: rgb(206, 169, 120);
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.CD img
+{
+    width: 100%;
+    height: 330px;
+    position: relative;
+
+}
+.mission
+{
+    color: azure;
+    text-align: center;
+    font-family:serif;
+    font-size: 200%;
+}
+/*-------------*/
+.adopt
+{
+    text-align: center;
+    color: black;
+    font-family:serif;
+    font-size: 100%;
+}
+.adopt img
+{
+    width: 22%;
+    height: 22%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.foster
+{
+    text-align: center;
+    color: black;
+    font-family:serif;
+    font-size: 100%;
+}
+.foster img
+{
+    width: 24%;
+    height: 24%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.donate
+{
+    text-align: center;
+    color: black;
+    font-family:serif;
+    font-size: 100%;
+}
+.donate img
+{
+    width: 29%;
+    height: 29%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+.volunteer
+{
+    text-align: center;
+    color: black;
+    font-family:serif;
+    font-size: 100%;
+    margin-bottom: 20%;
+}
+.volunteer img
+{
+    width: 29%;
+    height: 29%;
+    background-position:center center;
+    position: relative;
+    border-color: aliceblue;
+}
+/*-------------*/
+
+.footer
+{
+    background-color:rgb(110, 76, 31);
+}
